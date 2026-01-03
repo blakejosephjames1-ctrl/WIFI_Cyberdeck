@@ -6,6 +6,7 @@ This project is a Cyberdeck -style WiFi experimentation and penetration testing 
 
 The device is commpatible to run EPS32 marauder https://github.com/justcallmekoko/ESP32Marauder.git (NOT TO BE USED FOR PEN-TESTING WITHOUT PERMISION)
 
+     
 
 
 
